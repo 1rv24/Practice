@@ -1,3 +1,3 @@
 # Practice
-hi
+h
 hello
