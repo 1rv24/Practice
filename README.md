@@ -1,4 +1,4 @@
 # Practice
-hi, there!
+hi
 hello
 hello
